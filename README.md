@@ -5,7 +5,7 @@
 ### 👨‍💻 Sobre mim
 
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia e programação. Estou sempre aprendendo novas ferramentas e frameworks para construir projetos melhores e mais eficientes. 
+  Sou um desenvolvedor apaixonado por tecnologia e programação. Estou sempre aprendendo novas ferramentas e frameworks para construir projetos melhores e mais eficientes. Atualmente, estou focado em [Sua área de foco, ex: desenvolvimento web com React] e buscando oportunidades para colaborar em projetos inovadores.
 </p>
 
 <div align="center">
@@ -61,5 +61,3 @@
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/ArthurHenrique2006-stack/ArthurHenrique2006-stack/output/snake.svg" alt="Snake animation" />
